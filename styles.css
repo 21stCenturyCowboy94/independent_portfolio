@@ -1,0 +1,22 @@
+body {
+    background-color: forestgreen;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: wheat;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+.portrait {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nel {
+    max-width: 30%;
+}
