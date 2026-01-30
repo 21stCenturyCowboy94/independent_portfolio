@@ -9,6 +9,7 @@ body {
     color: wheat;
     font-family: fantasy;
     font-size: xx-large;
+    text-shadow: 20px;
 }
 
 .portrait {
@@ -19,4 +20,46 @@ body {
 
 .nel {
     max-width: 30%;
+    border-radius: 25px;
+    border: solid;
+    border-color: wheat;
+    border-width: 10px;
+}
+
+.chapter-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: wheat;
+    font-size: x-large;
+    font-family: fantasy;
+    text-shadow: 20px;
+}
+
+.paragraph {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: wheat;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.name {
+    font-weight: bolder;
+}
+
+.preview {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.chapter-div {
+    background-color: wheat;
+    height: 2px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
