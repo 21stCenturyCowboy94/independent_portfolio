@@ -25,7 +25,7 @@ This is a portfolio of Nelson. Ho and his work as a web developer student at Fid
 
 ### How to install:
 
-1. Go to GitHub.com and dind GitHub profile of 21stCenturyCowboy94.
+1. Go to GitHub.com and find GitHub profile of 21stCenturyCowboy94.
 
 1. Find the link of repo of "independent_portfolio."
 
