@@ -43,7 +43,7 @@ This is a portfolio of Nelson. Ho and his work as a web developer student at Fid
 
 ### Known bugs
 
-N/A
+The loading of GitHub pages is not totally fuctional. The websites I have created may not load properly.
 
 #
 
